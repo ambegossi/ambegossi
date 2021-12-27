@@ -43,7 +43,7 @@ Goal-oriented individual 🎯, honed communication skills 👐, strong organizat
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?logo=Vercel&logoColor=white"></a>
+    <a href="https://vercel.com"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=Vercel&logoColor=white"></a>
     <a href="https://firebase.google.com"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
     <a href="https://cloud.google.com"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"></a>
     <a href="https://www.digitalocean.com"><img alt="Digital Ocean" src="https://img.shields.io/badge/Digital_Ocean-%230167ff.svg?logo=digitalOcean&logoColor=white"></a>
