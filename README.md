@@ -5,7 +5,7 @@ Hi, I'm Anderson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
 </p>
 
 <hr />
- <img src="https://i.ibb.co/dKmjTJw/IMG-20210621-222636-046.jpg" alt="My Computer Science final work" align='right' width='260'/>
+ <img src="computer-science.jpg" alt="My Computer Science final work" align='right' width='260'/>
 <br/>
 
 Full-stack developer focusing on React.js, React Native and Node.js stack. I create amazing websites and apps to make the world a better place.
