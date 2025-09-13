@@ -1,6 +1,6 @@
 # Hi there, I'm Anderson 👋
 
-**Mobile Software Engineer** currently working at **Bamse**  
+**Mobile Software Engineer** currently working at [Bamse](https://www.bamse.co).
 
 ## 🛠 Tech Stack
 
