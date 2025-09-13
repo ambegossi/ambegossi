@@ -6,8 +6,8 @@
 
 **Languages:** JavaScript and TypeScript  
 **Mobile:** React Native and Expo  
-**Backend:** Node.js and NestJS
-**Cloud/DevOps**: AWS, Firebase, EAS and GitHub Actions
+**Backend:** Node.js and NestJS  
+**Cloud/DevOps**: AWS, Firebase, EAS and GitHub Actions  
 **Tools:** Git, Yarn Workspaces and Turborepo  
 **IDEs:** Cursor, Xcode and Android Studio
 
