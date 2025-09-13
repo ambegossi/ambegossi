@@ -7,7 +7,7 @@
 **Languages:** JavaScript and TypeScript  
 **Mobile:** React Native and Expo  
 **Backend/Cloud:** Node.js, NestJS and Firebase  
-**DevOps/Tools:** Git, GitHub Actions, EAS, Yarn Workspaces, Turborepo  
+**DevOps/Tools:** Git, GitHub Actions, EAS, Yarn Workspaces and Turborepo  
 **IDEs:** Cursor, Xcode and Android Studio
 
 ## 🚀 What I Do
